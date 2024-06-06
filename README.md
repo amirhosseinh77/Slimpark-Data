@@ -2,7 +2,7 @@
 # slimpark-data
 Transaction data for the SlimPark Living Lab, located at the University of Twente.
 
-# Daily Visualization
+## Daily Visualization
 
 
 # References
